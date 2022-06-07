@@ -1,0 +1,6 @@
+2022/06/06-21:21:07.135 3 Reusing MANIFEST /home/jswent/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2022/06/06-21:21:07.135 3 Recovering log #94
+2022/06/06-21:21:07.135 3 Reusing old log /home/jswent/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000094.log 
+2022/06/06-21:28:15.383 3 Level-0 table #99: started
+2022/06/06-21:28:15.391 3 Level-0 table #99: 20542 bytes OK
+2022/06/06-21:28:15.399 3 Delete type=0 #94

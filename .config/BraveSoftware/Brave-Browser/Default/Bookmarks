@@ -1,0 +1,40 @@
+{
+   "checksum": "4f204efe54f5ae5c0d395f0322e0277f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13298946773251161",
+            "guid": "96e6e496-1499-49ae-a3a1-36c50cb8cd5b",
+            "id": "5",
+            "name": "https://www.google.com/search?q=awesomewm+themes&ei=AECdYqeuCvbvkvQP2oSRkAw&ved=0ahUKEwinrsqOv5f4AhX2t4QIHVpCBMIQ4dUDCA4&uact=5&oq=awesomewm+themes&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEJECMgUIABCABDIFCAAQgAQyBQgAEIAEMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWOgcIABBHELADOgsILhCABBCxAxCDAToLCAAQgAQQsQMQgwE6EQguEIAEELEDEIMBEMcBEKMCOg4ILhCABBCxAxDHARDRAzoICAAQgAQQsQM6CggAELEDEIMBEAo6BAgAEAo6CgguEMcBENEDEAo6EwguELEDEIMBELEDEMcBEKMCEAo6EQgAEOoCELQCEIoDELcDEOUCOhQIABDqAhC0AhCKAxC3AxDUAxDlAjoECAAQQzoRCC4QgAQQsQMQgwEQxwEQ0QM6DgguEIAEEMcBEKMCENQCOgcIABCxAxBDOg0ILhCxAxDHARDRAxBDOgoIABCxAxCDARBDSgQIQRgASgQIRhgAUMgGWM0ZYJ0aaARwAHgAgAFaiAHPCZIBAjE4mAEAoAEBsAEKyAEIwAEB&sclient=gws-wiz",
+            "type": "url",
+            "url": "https://www.google.com/search?q=awesomewm+themes&ei=AECdYqeuCvbvkvQP2oSRkAw&ved=0ahUKEwinrsqOv5f4AhX2t4QIHVpCBMIQ4dUDCA4&uact=5&oq=awesomewm+themes&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEJECMgUIABCABDIFCAAQgAQyBQgAEIAEMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWOgcIABBHELADOgsILhCABBCxAxCDAToLCAAQgAQQsQMQgwE6EQguEIAEELEDEIMBEMcBEKMCOg4ILhCABBCxAxDHARDRAzoICAAQgAQQsQM6CggAELEDEIMBEAo6BAgAEAo6CgguEMcBENEDEAo6EwguELEDEIMBELEDEMcBEKMCEAo6EQgAEOoCELQCEIoDELcDEOUCOhQIABDqAhC0AhCKAxC3AxDUAxDlAjoECAAQQzoRCC4QgAQQsQMQgwEQxwEQ0QM6DgguEIAEEMcBEKMCENQCOgcIABCxAxBDOg0ILhCxAxDHARDRAxBDOgoIABCxAxCDARBDSgQIQRgASgQIRhgAUMgGWM0ZYJ0aaARwAHgAgAFaiAHPCZIBAjE4mAEAoAEBsAEKyAEIwAEB&sclient=gws-wiz"
+         } ],
+         "date_added": "13298945250566573",
+         "date_modified": "13298946773251161",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13298945250566574",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13298945250566577",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
