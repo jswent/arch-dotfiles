@@ -1,6 +1,0 @@
-2022/06/06-21:33:11.858 bbe7 Reusing MANIFEST /home/jswent/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/06/06-21:33:11.858 bbe7 Recovering log #33
-2022/06/06-21:33:11.866 bbe7 Reusing old log /home/jswent/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000033.log 
-2022/06/06-21:33:59.062 bbcd Level-0 table #38: started
-2022/06/06-21:33:59.078 bbcd Level-0 table #38: 1062420 bytes OK
-2022/06/06-21:33:59.086 bbcd Delete type=0 #33

@@ -1,0 +1,6 @@
+2022/06/13-12:41:55.761 c4b Reusing MANIFEST /home/jswent/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/13-12:41:55.761 c4b Recovering log #94
+2022/06/13-12:41:55.768 c4b Reusing old log /home/jswent/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000094.log 
+2022/06/13-12:42:27.022 c4b Level-0 table #99: started
+2022/06/13-12:42:27.042 c4b Level-0 table #99: 1174433 bytes OK
+2022/06/13-12:42:27.056 c4b Delete type=0 #94

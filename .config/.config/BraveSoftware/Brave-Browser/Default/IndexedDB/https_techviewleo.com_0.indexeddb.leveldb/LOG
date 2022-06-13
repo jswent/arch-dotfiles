@@ -1,0 +1,6 @@
+2022/06/13-11:43:30.111 5349 Creating DB /home/jswent/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_techviewleo.com_0.indexeddb.leveldb since it was missing.
+2022/06/13-11:43:30.130 5349 Reusing MANIFEST /home/jswent/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_techviewleo.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/13-11:44:07.885 5081 Level-0 table #5: started
+2022/06/13-11:44:07.891 5081 Level-0 table #5: 800 bytes OK
+2022/06/13-11:44:07.899 5081 Delete type=0 #3
+2022/06/13-11:44:07.899 5081 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
