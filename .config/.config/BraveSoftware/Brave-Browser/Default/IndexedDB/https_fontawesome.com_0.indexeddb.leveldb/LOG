@@ -1,6 +1,0 @@
-2022/06/06-19:52:12.825 7122 Creating DB /home/jswent/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb since it was missing.
-2022/06/06-19:52:12.844 7122 Reusing MANIFEST /home/jswent/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/06/06-19:52:26.088 6b2c Level-0 table #5: started
-2022/06/06-19:52:26.094 6b2c Level-0 table #5: 2448 bytes OK
-2022/06/06-19:52:26.102 6b2c Delete type=0 #3
-2022/06/06-19:52:26.102 6b2c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -13,5 +13,6 @@ fi
 alias ll='ls_extended -alF'
 alias lsa='ls_extended -lah'
 alias cls='clear'
-
+alias btop='btop --utf-force'
+alias spt='~/scripts/launchspt'
 

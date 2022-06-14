@@ -1,9 +1,0 @@
-2022/06/13-12:43:18.487 1086 Reusing MANIFEST /home/jswent/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/06/13-12:43:18.487 1086 Recovering log #98
-2022/06/13-12:43:18.488 1086 Reusing old log /home/jswent/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000098.log 
-2022/06/13-12:43:18.596 109e Compacting 1@1 + 1@2 files
-2022/06/13-12:43:18.608 109e Generated table #101@1: 328 keys, 36363 bytes
-2022/06/13-12:43:18.608 109e Compacted 1@1 + 1@2 files => 36363 bytes
-2022/06/13-12:43:18.628 109e compacted to: files[ 0 0 1 0 0 0 0 ]
-2022/06/13-12:43:18.628 109e Delete type=2 #96
-2022/06/13-12:43:18.628 109e Delete type=2 #99

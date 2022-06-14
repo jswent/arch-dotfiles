@@ -1,6 +1,0 @@
-2022/06/12-23:52:58.224 113bf Reusing MANIFEST /home/jswent/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/06/12-23:52:58.224 113bf Recovering log #4
-2022/06/12-23:52:58.228 113bf Reusing old log /home/jswent/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
-2022/06/12-23:53:10.528 113d8 Level-0 table #8: started
-2022/06/12-23:53:10.555 113d8 Level-0 table #8: 2057145 bytes OK
-2022/06/12-23:53:10.568 113d8 Delete type=0 #4
