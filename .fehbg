@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/jswent/.config/awesome/background.png' '/home/jswent/.config/awesome/background2.png' 
