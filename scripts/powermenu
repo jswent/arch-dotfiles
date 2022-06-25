@@ -18,7 +18,7 @@ $reboot
 $shutdown" | rofi -dmenu\
                   -i\
                   -p "Power"\
-		  -theme "/usr/share/themes/Nordic/powermenu.rasi")
+		  -theme "/home/jswent/.config/rofi/themes/powermenu.rasi")
 # Do something based on selected option
 if [ "$selected_option" == "$lock" ]
 then
@@ -29,14 +29,14 @@ then
 elif [ "$selected_option" == "$shutdown" ]
 then
     # mpv ~/Music/alaram/shutdown.mp3 &
-    sudo systemctl poweroff
+    systemctl poweroff
 elif [ "$selected_option" == "$reboot" ]
 then
-    sudo systemctl reboot
+    reboot
 elif [ "$selected_option" == "$sleep" ]
 then
     # amixer set Master mute
-    sudo systemctl suspend
+    systemctl suspend
 else
     echo "No match"
 fi

@@ -1,0 +1,22 @@
+#!/bin/env bash
+
+# get scripts to output to dmenu 
+files=`ls /home/jswent/scripts`
+
+# instantiate variable
+out=""
+
+# add script with terminal icon to dmenu variable 
+for entry in $files
+do 
+  out+="""$entry\0icon\x1fterminal\0icon\n"""
+done 
+
+# remove last \n to avoid extra entry 
+out=${out::-2}
+
+# activate rofi 
+selected_option=$(echo -e "$out" | rofi -dmenu -i -p "" -terminal alacritty -theme "/home/jswent/.config/rofi/themes/slauncher.rasi") 
+
+# call selected script
+/home/jswent/scripts/$selected_option
