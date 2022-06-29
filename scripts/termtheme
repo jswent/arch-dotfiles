@@ -1,0 +1,35 @@
+#!/bin/bash
+
+export LOCAL="/home/jswent/.config/alacritty"
+selected_option=""
+
+if [ -z "$1" ]; then
+  files=`ls /home/jswent/.config/alacritty/themes`
+  out=""
+
+  for entry in $files
+  do 
+    out+="""$entry\0icon\x1ffill-color\0icon\n"""
+  done
+
+  out=${out::-2}
+
+  selected_option=$(echo -e "$out" | rofi -dmenu -i -p "" -terminal alacritty -theme "/home/jswent/.config/rofi/themes/slauncher.rasi")
+elif [ -f "$LOCAL/themes/$1" ]; then
+  selected_option="$1"
+else
+  exit 1
+fi
+
+theme=${selected_option%.yml}
+export TERMTHEME="$theme"
+
+if [ -L "$LOCAL/alacritty.yml" ]; then
+  rm -f "$LOCAL/alacritty.yml"
+elif [ -f "$LOCAL/alacritty.yml" ]; then
+  mv -f "$LOCAL/alacritty.yml" "$LOCAL/alacritty.yml.old"
+fi 
+
+if [ ! -z "$selected_option" ]; then
+  ln -s "$LOCAL/themes/$selected_option" "$LOCAL/alacritty.yml"
+fi
